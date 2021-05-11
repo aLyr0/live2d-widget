@@ -474,7 +474,7 @@
         {
             "selector": ".header-user-avatar",
             "text": [
-                "登录了吗么？",
+                "登录了吗？",
                 "头像不错呦～"
             ]
         },
@@ -523,7 +523,7 @@
         {
             "selector": ".header-info",
             "text": [
-                "这是主人留给大家的！"
+                "这是主人留下的签名"
             ]
         },
         {
@@ -597,19 +597,7 @@
         {
             "selector": ".profile",
             "text": [
-                "又见主人了。"
-            ]
-        },
-        {
-            "selector": "a[href^='http']",
-            "text": [
-                "要去看看 「 <span>{text}</span> 」么？？"
-            ]
-        },
-        {
-            "selector": "a[href^='http'] h3",
-            "text": [
-                "要去看看 「 <span>{text}</span> 」么？？"
+                "又见到主人了！"
             ]
         },
         {
@@ -656,13 +644,6 @@
         {
             "selector": ".comment-textarea",
             "text": [
-                "想要去评论些什么吗？",
-                "要说点什么吗？"
-            ]
-        },
-        {
-            "selector": ".comment-textarea",
-            "text": [
                 "你会不会熟练使用 Markdown 呀？",
                 "使用 Markdown 让评论更美观吧～"
             ]
@@ -701,6 +682,51 @@
                 "哇，快看看这个精彩评论！",
                 "如果有疑问，请尽快留言哦～"
             ]
+        },
+        {
+            "selector": ".social-github",
+            "text": [
+                "GitHub！我是新手！",
+                "git add . git commit git push ！"
+            ]
+        },
+        {
+            "selector": ".social-lofter",
+            "text": [
+                "要联系主人么？"
+            ]
+        },
+        {
+            "selector": ".logged-in-as",
+            "text": [
+                "要去个人中心吗？"
+            ]
+        },
+        {
+            "selector": ".user-menu-option",
+            "text": [
+                "接下来做什么好呢～"
+            ]
+        },
+        {
+            "selector": "a[href^='https://chr.fan/about/']",
+            "text": [
+                "你想知道我家主人是谁吗？",
+                "这里有一些关于我家主人的秘密哦，要不要看看呢？",
+                "发现主人出没地点！"
+            ]
+        },
+        {
+            "selector": "a[href^='http']",
+            "text": [
+                "要去看看 「 <span>{text}</span> 」么？？"
+            ]
+        },
+        {
+            "selector": "a[href^='http'] h3",
+            "text": [
+                "要去看看 「 <span>{text}</span> 」么？？"
+            ]
         }
     ],
     "click": [
@@ -709,10 +735,10 @@
             "text": [
                 "是…是不小心碰到了吧…",
                 "萝莉控是什么呀？",
-                "你看到我的小熊了吗？",
+                "三年起步，最高死刑～",
                 "再摸的话我可要报警了！⌇●﹏●⌇",
                 "110 吗，这里有个变态一直在摸我(ó﹏ò｡)",
-                "不要摸我了，我会告诉老婆来打你的！",
+                "不要摸我了，我会告诉主人来打你的！",
                 "干嘛动我呀！小心我咬你！",
                 "别摸我，有什么好摸的！"
             ]
